@@ -6,7 +6,7 @@
 
 ---
 
-## 这个仓库是什么
+## 这个仓库是什么?
 
 Ian Xiaohei Illustrations 是一个 Codex Skill，用来指导 AI Agent 为中文文章、帖子、博客、Notion 文档和方法论内容生成正文配图。
 
